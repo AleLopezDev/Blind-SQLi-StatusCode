@@ -1,1 +1,1 @@
-Script en python para resolver el laboratorio Blind SQL injection with conditional responses
+Script en python para resolver el laboratorio Blind SQL injection with conditional errors
